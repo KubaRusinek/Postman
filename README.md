@@ -1,5 +1,4 @@
 # Postman
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 API sample testing on Swagger Petstore server with Postman application:
 - Order section
